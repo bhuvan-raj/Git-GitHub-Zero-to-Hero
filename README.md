@@ -39,8 +39,8 @@ By the end of this course, you will be able to:
 
 | # | Topic | Description |
 |---|-------|-------------|
-| 01 | [What is Version Control?](./what-is-vcs/) | VCS explained, CVCS vs DVCS, and why Git exists |
-| 02 | [Git Installation & Setup](./git-installation-setup/) | Install Git on Linux, macOS, Windows and configure your identity |
+| 01 | [What is Version Control?](./VCS/) | VCS explained, CVCS vs DVCS, and why Git exists |
+| 02 | [Git Installation & Setup](./git-installation/) | Install Git on Linux, macOS, Windows and configure your identity |
 | 03 | [Git Architecture](./git-architecture/) | The four areas — Working Directory, Staging, Local Repo, Remote Repo |
 | 04 | [Basic Git Commands](./git-basic-commands/) | `init`, `status`, `add`, `commit`, `log`, `diff` and more |
 | 05 | [Git Branching](./git-branching/) | Create, switch, list, rename, and delete branches |
