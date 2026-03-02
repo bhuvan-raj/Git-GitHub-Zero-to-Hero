@@ -1,4 +1,3 @@
-<img src="https://github.com/bhuvan-raj/Git-GitHub-Zero-to-Hero/blob/main/assets/github.png" alt="Banner" />
 
 <div align="center">
 
